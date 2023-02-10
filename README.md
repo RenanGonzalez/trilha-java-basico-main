@@ -1,2 +1,1 @@
-# trilha-java-basico-main
-DIO-JAVA-BASICO
+# trilha-java-basico
